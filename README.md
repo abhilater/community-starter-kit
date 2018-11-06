@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome Bot welcomes users on to your project
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Welcomes a new user using a welcome message
+* Helps them with next steps
 
 ## Getting started
 
